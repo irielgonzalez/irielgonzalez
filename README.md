@@ -1,16 +1,26 @@
-## Hi there 👋
+## Hi there 👋 I'm Iriel Gonzalez
 
-<!--
-**irielgonzalez/irielgonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master of Applied Data Science student with a background in Astronomy, specialising in quantitative modelling, algorithm design and optimisation.
 
-Here are some ideas to get you started:
+I am particularly interested in structured problem-solving, efficiency optimisation and building scalable systems using Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Areas of Focus
+- Algorithmic optimisation
+- Quantitative modelling
+- Statistical analysis
+- Structured system design
+- Performance-focused solutions
+
+# Technical Skills
+Python | R | SQL
+Statistical Modelling | Hypothesis Testing
+Object-Oriented Programming
+Algorithm Design & Optimisation
+
+# Selected Projects
+- Modular Inventory Management System
+- Algorithmic Efficiency Optimisation System
+
+I am currently expanding my portfolio with projects focused on applied optimisation and operational analytics.
+
+📫 Contact: irielglizama@gmail.com
